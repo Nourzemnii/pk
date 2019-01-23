@@ -1,0 +1,55 @@
+.body{
+    background-color:grey;
+}
+#fin{
+    color: black;
+}
+.paragraph{
+    
+    width: 300px;
+color:black;
+font-weight: bold;
+margin-left: 200px;
+}
+#p0{
+    margin-left: 110px;
+
+}
+.tit1{
+    font-size: 50px;
+    font-style: italic;
+    background-color: white;
+    padding-left: 30%;
+}
+#im{
+    width:280px;
+    height: 200px;
+    border-color: black;
+}
+.bloc1, .bloc2 {
+    display: inline-block;
+    background-color: beige;
+    
+}
+.bloc1{
+    margin-left: 106px;
+}
+.bloc2{
+    padding-left: 5px;
+    
+}
+
+.parag{
+   padding-left: 20px;
+
+
+
+}
+#msg {
+   height: 100px;
+   width: 650px;
+}
+#sub{
+   width: 650px;
+   height: 30px;
+}
